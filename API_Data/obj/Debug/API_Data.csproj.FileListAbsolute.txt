@@ -1,0 +1,6 @@
+E:\CNLTTH\ShopLinhKien\API_Data\bin\Debug\API_Data.dll
+E:\CNLTTH\ShopLinhKien\API_Data\bin\Debug\API_Data.pdb
+E:\CNLTTH\ShopLinhKien\API_Data\obj\Debug\API_Data.csproj.CoreCompileInputs.cache
+E:\CNLTTH\ShopLinhKien\API_Data\obj\Debug\API_Data.dll
+E:\CNLTTH\ShopLinhKien\API_Data\obj\Debug\API_Data.pdb
+E:\CNLTTH\ShopLinhKien\API_Data\obj\Debug\API_Data.csprojAssemblyReference.cache
