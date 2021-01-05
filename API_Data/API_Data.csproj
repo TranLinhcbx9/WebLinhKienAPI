@@ -31,8 +31,17 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -41,12 +50,26 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DAO\DataProvider.cs" />
-    <Compile Include="DAO\LoaiSPDAO.cs" />
-    <Compile Include="DAO\SanPhamDAO.cs" />
-    <Compile Include="DTO\LoaiSP.cs" />
-    <Compile Include="DTO\SanPham.cs" />
+    <Compile Include="DAO\LinhKienDAO.cs" />
+    <Compile Include="EF\Anh.cs" />
+    <Compile Include="EF\ChiTietDonHang.cs" />
+    <Compile Include="EF\ChiTietPhieuNhap.cs" />
+    <Compile Include="EF\ChiTietPhieuXuat.cs" />
+    <Compile Include="EF\DonHang.cs" />
+    <Compile Include="EF\GioHang.cs" />
+    <Compile Include="EF\LinhKien.cs" />
+    <Compile Include="EF\LoaiLinhKien.cs" />
+    <Compile Include="EF\LoaiMay.cs" />
+    <Compile Include="EF\NhaCC.cs" />
+    <Compile Include="EF\PhieuNhap.cs" />
+    <Compile Include="EF\PhieuXuat.cs" />
+    <Compile Include="EF\User.cs" />
+    <Compile Include="EF\Web.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

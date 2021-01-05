@@ -4,3 +4,15 @@ E:\CNLTTH\ShopLinhKien\API_Data\obj\Debug\API_Data.csproj.CoreCompileInputs.cach
 E:\CNLTTH\ShopLinhKien\API_Data\obj\Debug\API_Data.dll
 E:\CNLTTH\ShopLinhKien\API_Data\obj\Debug\API_Data.pdb
 E:\CNLTTH\ShopLinhKien\API_Data\obj\Debug\API_Data.csprojAssemblyReference.cache
+C:\Users\LinhNgoc\Documents\GitHub\WebLinhKienAPI\API_Data\bin\Debug\API_Data.dll
+C:\Users\LinhNgoc\Documents\GitHub\WebLinhKienAPI\API_Data\bin\Debug\API_Data.pdb
+C:\Users\LinhNgoc\Documents\GitHub\WebLinhKienAPI\API_Data\obj\Debug\API_Data.csprojAssemblyReference.cache
+C:\Users\LinhNgoc\Documents\GitHub\WebLinhKienAPI\API_Data\obj\Debug\API_Data.csproj.CoreCompileInputs.cache
+C:\Users\LinhNgoc\Documents\GitHub\WebLinhKienAPI\API_Data\obj\Debug\API_Data.dll
+C:\Users\LinhNgoc\Documents\GitHub\WebLinhKienAPI\API_Data\obj\Debug\API_Data.pdb
+C:\Users\LinhNgoc\Documents\GitHub\WebLinhKienAPI\API_Data\bin\Debug\API_Data.dll.config
+C:\Users\LinhNgoc\Documents\GitHub\WebLinhKienAPI\API_Data\bin\Debug\EntityFramework.dll
+C:\Users\LinhNgoc\Documents\GitHub\WebLinhKienAPI\API_Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LinhNgoc\Documents\GitHub\WebLinhKienAPI\API_Data\bin\Debug\EntityFramework.xml
+C:\Users\LinhNgoc\Documents\GitHub\WebLinhKienAPI\API_Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LinhNgoc\Documents\GitHub\WebLinhKienAPI\API_Data\obj\Debug\API_Data.csproj.CopyComplete
